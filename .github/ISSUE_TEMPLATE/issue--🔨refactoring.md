@@ -1,7 +1,7 @@
 ---
 name: "issue--\U0001F528refactoring"
 about: 코드 변경 사항 적용 시 이슈 작성
-title: "[BootBox - ]"
+title: "[Refactor]"
 labels: "\U0001F528 Refactor"
 assignees: ''
 

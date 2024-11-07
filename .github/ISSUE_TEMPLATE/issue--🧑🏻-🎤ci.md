@@ -1,7 +1,7 @@
 ---
 name: "issue--\U0001F9D1\U0001F3FB‍\U0001F3A4ci"
 about: ci 설정
-title: "[BootBox - ]"
+title: "[CI]"
 labels: ''
 assignees: ''
 

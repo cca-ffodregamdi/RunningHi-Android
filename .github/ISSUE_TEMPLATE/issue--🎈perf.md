@@ -1,7 +1,7 @@
 ---
 name: "issue--\U0001F388perf"
 about: " 성능 개선"
-title: "[BootBox - ] "
+title: "[Perf] "
 labels: ''
 assignees: ''
 

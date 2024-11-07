@@ -1,7 +1,7 @@
 ---
 name: issue--⚙Chore
 about: 개발 환경 세팅 관련
-title: "[BootBox - ]"
+title: "[Chore]"
 labels: "⚙ Chore"
 assignees: ''
 

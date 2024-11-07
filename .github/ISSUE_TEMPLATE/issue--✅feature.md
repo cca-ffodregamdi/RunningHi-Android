@@ -1,7 +1,7 @@
 ---
 name: issue--✅feature
 about: 기능 개발 시 이슈 작성
-title: "[BootBox - ]"
+title: "[Feature]"
 labels: "✨ Feature"
 assignees: ''
 
