@@ -85,23 +85,23 @@ const styles = StyleSheet.create({
       paddingHorizontal: 16,
       paddingVertical: 12,
       borderBottomWidth: 1,
-      borderBottomColor: '#E5E5EA', // Neutral200
+      borderBottomColor: '#E5E5EA',
     },
     backButton: {
       padding: 4,
     },
     backButtonText: {
       fontSize: 24,
-      color: '#1C1C1E', // Neutral900
+      color: '#1C1C1E',
     },
     headerTitle: {
       fontSize: 18,
       fontWeight: '600',
-      color: '#1C1C1E', // Neutral900
+      color: '#1C1C1E',
     },
     completeButton: {
       fontSize: 16,
-      color: '#007AFF', // Primary500 (iOS 스타일 파란색)
+      color: '#007AFF',
     },
     profileSection: {
       alignItems: 'center',
@@ -114,7 +114,7 @@ const styles = StyleSheet.create({
       width: 100,
       height: 100,
       borderRadius: 50,
-      backgroundColor: '#F2F2F7', // Neutral100
+      backgroundColor: '#F2F2F7',
       justifyContent: 'center',
       alignItems: 'center',
       position: 'relative',
@@ -128,11 +128,11 @@ const styles = StyleSheet.create({
       position: 'absolute',
       right: -5,
       bottom: -5,
-      backgroundColor: '#FFFFFF', // Base White
+      backgroundColor: '#FFFFFF',
       borderRadius: 20,
       padding: 8,
       borderWidth: 1,
-      borderColor: '#E5E5EA', // Neutral200
+      borderColor: '#E5E5EA',
     },
     cameraIcon: {
       width: 24,
@@ -144,19 +144,19 @@ const styles = StyleSheet.create({
     },
     nicknameLabel: {
       fontSize: 14,
-      color: '#8E8E93', // Neutral500
+      color: '#8E8E93',
       marginBottom: 8,
     },
     nicknameInput: {
       width: '100%',
       height: 48,
       borderWidth: 1,
-      borderColor: '#E5E5EA', // Neutral200
+      borderColor: '#E5E5EA',
       borderRadius: 8,
       paddingHorizontal: 16,
       fontSize: 16,
-      color: '#1C1C1E', // Neutral900
-      backgroundColor: '#FFFFFF', // Base White
+      color: '#1C1C1E',
+      backgroundColor: '#FFFFFF',
     },
     bottomButtonContainer: {
       flexDirection: 'row',
@@ -168,12 +168,12 @@ const styles = StyleSheet.create({
     },
     bottomButtonText: {
       fontSize: 14,
-      color: '#828F9B', // Neutral500
+      color: '#828F9B',
       paddingHorizontal: 12,
     },
     separator: {
       fontSize: 20,
-      color: '#828F9B', // Neutral200
+      color: '#828F9B',
       paddingHorizontal: 8,
     },
   });
